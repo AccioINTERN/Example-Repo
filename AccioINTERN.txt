@@ -1,0 +1,42 @@
+AccioINTERN
+
+Project Details:
+
+Title: Telegram Bot Using Python-Telegram-bot
+
+Proficiency Level: Beginner
+
+Requirements:
+
+ Basic understanding of Python
+ No prior experience with Telegram Bot API required
+
+Project Description:
+
+Develop a Telegram bot using the Python-Telegram-bot library that greets users when they message it. The bot should also be able to:
+
+ Display a welcome message
+ Handle unknown commands gracefully
+ Store user preferences (e.g., name, language) in a database
+
+Submission Instructions:
+
+1. Visit https://s.id/AccioINTERN
+2. Submit your GitHub username: your-github-username-here
+3. Check your email for an invitation to join the AccioINTERN organization on GitHub
+4. Create a new repository named `Telegram_Bot_Internship` in your AccioINTERN organization
+5. Upload your project code to the repository
+
+Additional Information:
+
+ Deadline for submission: 1 week from receipt of this email
+ Internships are unpaid and have a duration of 2 months
+ The top performers may be offered full-time employment after the internship
+
+Please feel free to reach out if you have any questions.
+
+Thank you for your interest in the AccioINTERN internship program!
+
+Sincerely,
+TraxDinosaur
+Owner, AccioINTERN
