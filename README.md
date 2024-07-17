@@ -21,8 +21,8 @@ This Telegram bot is designed to greet users when they message it and handle bas
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AccioINTERN/Telegram_Bot_Internship.git
-   cd Telegram_Bot_Internship
+   git clone https://github.com/AccioINTERN/Example-Repository.git
+   cd Example-Repository
    ```
 
 2. **Install dependencies**:
